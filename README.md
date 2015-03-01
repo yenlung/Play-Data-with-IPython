@@ -1,12 +1,12 @@
-## IPython 在 資料分析簡介
+## 用 IPython 玩數據
 
-這份筆記是 IPython 在資料分析的簡介, 是 2014 年在靜宜大學財務與計算數學系演講的 IPython Notebook。
+這份筆記是把 IPython 應用在數據分析的簡介, 很簡短介紹基本概念如迴歸、插值、監督非監督學習等等。
 
-裡面介紹 IPython 在資料分析的基礎、相關學習資源。
+假設有非常基礎的 Python 知識。
 
 ### 用 IPython NBViwer 看筆記
 
-[IPython Notebbok 筆記](http://nbviewer.ipython.org/github/yenlung/Nano-Data-Analysis-with-IPython/blob/master/Nano%20Data%20Analysis%20with%20IPython.ipynb)
+[IPython Notebbok 筆記](http://nbviewer.ipython.org/github/yenlung/Play-Data-with-IPython/blob/master/Play%20Data%20with%20IPython.ipynb)
 
 ### 相關影片
 
