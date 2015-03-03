@@ -10,6 +10,10 @@
 
 ### 相關影片
 
+2015 年 3 月 3 日在花蓮.py 演講的錄影。
+
+[演講錄影](http://youtu.be/620807cPZMY)
+
 有興趣的朋友也可參考我在政大－成大聯合 "Nano Data Analysis with Python" 工作坊中的教學錄影。
 
 * [2014 Nano Data Anlysis with Python 政大場 1](http://youtu.be/bNOYkAh5UXE)
